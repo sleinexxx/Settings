@@ -1,1 +1,1 @@
-hwid:example-blabla:true
+hwid:example-blabla:true:
